@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning **Javascript,React,web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/filzasaleem](https://github.com/filzasaleem)
-- 
+
 - 🚀 Check out my Demo Portfolio Project - [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main)
 
 <p>I've been busy working on a cool project during my Technigo bootcamp course. This Todo App showcases my skills in JavaScript, React, and Redux. It's not just a project; it's a journey into the dynamic world of web development!</p>
