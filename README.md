@@ -1,19 +1,23 @@
 <h1 align="center">Hi 👋, I'm Filza Saleem</h1>
-<h3 align="center">A web developer student</h3>
+<h3 align="center">I hold a master's degree in Embedded Systems and am currently dedicated to transitioning my expertise towards the dynamic field of web development. With a solid foundation in Embedded Systems, I bring a unique perspective to web development, combining a strong technical background with a passion for creating seamless and user-friendly digital experiences. Eager to contribute my skills and adaptability to innovative web projects, I am committed to staying at the forefront of technological advancements in the ever-evolving landscape of software development</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filzasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="filzasaleem" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=filzasaleem" alt="filzasaleem" /></a> </p>
-
 - 🔭 I’m currently working on **Final project for the techniqo bootcamp course**
 
-- 🌱 I’m currently learning **React,web development**
+- 🌱 I’m currently learning **Javascript,React,web development**
 
 - 👨‍💻 All of my projects are available at [https://github.com/filzasaleem](https://github.com/filzasaleem)
+- 🚀 Check out my Demo Portfolio Project - [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main)
+
+<p>I've been busy working on a cool project during my Technigo bootcamp course. This Todo App showcases my skills in JavaScript, React, and Redux. It's not just a project; it's a journey into the dynamic world of web development!</p>
+
+🔗 [View it live here]((https://filzas-todo-app.netlify.app/)
+
 
 - 📫 How to reach me **filza.saleem05@gmail.com**
 
-- ⚡ Fun fact **I hold a master's degree in Embedded Systems and am currently dedicated to transitioning my expertise towards the dynamic field of web development. With a solid foundation in Embedded Systems, I bring a unique perspective to web development, combining a strong technical background with a passion for creating seamless and user-friendly digital experiences. Eager to contribute my skills and adaptability to innovative web projects, I am committed to staying at the forefront of technological advancements in the ever-evolving landscape of software development**
+- ⚡ Fun fact **Looking for a front end position.Feel free to contact me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
