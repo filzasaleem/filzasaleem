@@ -13,7 +13,7 @@
 
 <p>I've been busy working on a cool project during my Technigo bootcamp course. This Todo App showcases my skills in JavaScript, React, and Redux. It's not just a project; it's a journey into the dynamic world of web development!</p>
 
-🔗 [View it live here]((https://filzas-todo-app.netlify.app/)
+🔗 [View it live here](https://filzas-todo-app.netlify.app/)
 This project reflects my dedication to mastering web development, and I'm excited to share it with you. Your feedback is always appreciated!
 
 - 📫 How to reach me **filza.saleem05@gmail.com**
