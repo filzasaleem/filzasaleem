@@ -12,7 +12,7 @@
 - 🚀 Check out some my Demo Portfolio Project - These projects reflect my dedication to mastering web development, and I'm excited to share it with you. Your feedback is always appreciated!
   -  [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main) View it live [here](https://filzas-todo-app.netlify.app/)
   -  [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8) view it live [here](https://funn-quizz.netlify.app/)
-  -  [mvies-site](https://github.com/filzasaleem/project-movies-vite-week7) view it live [here](https://filzas-movies-project.netlify.app/)
+  -  [movies-site](https://github.com/filzasaleem/project-movies-vite-week7) view it live [here](https://filzas-movies-project.netlify.app/)
   
 
 - 📫 How to reach me **filza.saleem05@gmail.com**
