@@ -3,22 +3,17 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=filzasaleem&label=Profile%20views&color=0e75b6&style=flat" alt="filzasaleem" /> </p>
 
-- 🔭 I’m currently working on **Final project for the techniqo bootcamp course**
 
-- 🌱 I’m currently learning **Javascript,React,web development**
+- 🌱 I’m experimenting with  **Javascript and exploring React along the way**
 
 - 👨‍💻 All of my projects are available at [https://github.com/filzasaleem](https://github.com/filzasaleem)
 
-- 🚀 Check out some my Demo Portfolio Projects - These projects reflect my dedication to mastering web development, and I'm excited to share it with you. Your feedback is always appreciated!
+- 🚀 Check out some my Demo Portfolio Projects.
   -  [ReShare](https://github.com/filzasaleem/ReShare/tree/main) View it live [here](https://stirring-florentine-c4bb3f.netlify.app/)
   -  [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main) View it live [here](https://filzas-todo-app.netlify.app/)
   -  [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8) view it live [here](https://funn-quizz.netlify.app/)
   -  [movies-site](https://github.com/filzasaleem/project-movies-vite-week7) view it live [here](https://filzas-movies-project.netlify.app/)
   
-
-- 📫 How to reach me **filza.saleem05@gmail.com**
-
-- ⚡ Fun fact **Looking for a front end position.Feel free to contact me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
