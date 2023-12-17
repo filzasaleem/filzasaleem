@@ -6,10 +6,6 @@
 
 - 🌱 I’m experimenting with **Javascript and exploring React along the way**
 
-- 👨‍💻 All of my projects are available at [https://github.com/filzasaleem](https://github.com/filzasaleem)
-
-
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://linkedin.com/in/filza-saleem-171ba9131/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="filza saleem" height="30" width="40" /></a>
@@ -21,17 +17,16 @@
  <p align="center">🎖 My Projects.</p>
  ## My Projects
 
-| Project Name   | Description   | Live Demo Link                                      |
-| --------------  | ------------- | ---------------------------------------------------- |
-| ReShare        | Project description goes here.                      | [View Live](https://stirring-florentine-c4bb3f.netlify.app/)   |
-| Todo App       | Another project description.                         | [View Live](https://filzas-todo-app.netlify.app/)                 |
-| quiz-app       | Description of the quiz app project.                | [View Live](https://funn-quizz.netlify.app/)                   |
-| movies-site    | Brief description of the movies site project.        | [View Live](https://filzas-movies-project.netlify.app/)       |
+## My Projects
 
-  -  [ReShare](https://github.com/filzasaleem/ReShare/tree/main) View it live [here](https://stirring-florentine-c4bb3f.netlify.app/)
-  -  [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main) View it live [here](https://filzas-todo-app.netlify.app/)
-  -  [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8) view it live [here](https://funn-quizz.netlify.app/)
-  -  [movies-site](https://github.com/filzasaleem/project-movies-vite-week7) view it live [here](https://filzas-movies-project.netlify.app/)
+| Project Name   | Technologies Used                                 | Live Demo Link                                      |
+| --------------  | ------------------------------------------------- | ---------------------------------------------------- |
+| [ReShare](https://github.com/filzasaleem/ReShare/tree/main)       | Javascript, React, Redux, React Routers,MongoDB     | [View Live](https://stirring-florentine-c4bb3f.netlify.app/)   |
+| [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main)        | Javascript, React, Redux            | [View Live](https://filzas-todo-app.netlify.app/)                 |
+| [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8)       | Javascript, React, Redux            | [View Live](https://funn-quizz.netlify.app/)                   |
+| [movies-site](https://github.com/filzasaleem/project-movies-vite-week7)     | Javascript, React Routers, TailwindCSS         | [View Live](https://filzas-movies-project.netlify.app/)       |
+
+
   
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=filzasaleem&show_icons=true&locale=en&layout=compact" alt="filzasaleem" /></p>
 
