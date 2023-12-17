@@ -16,12 +16,12 @@
  <h2 align="left">🎖 My Projects.</h2>
   
 
-| Project Name   | Technologies Used                                 | Live Demo Link                                      |
+| Project Name   | Technologies and Libraries Used                                 | Live Demo Link                                      |
 | --------------  | ------------------------------------------------- | ---------------------------------------------------- |
-| [ReShare](https://github.com/filzasaleem/ReShare/tree/main)       | Javascript, React, Redux, React Routers,MongoDB     | [View Live](https://stirring-florentine-c4bb3f.netlify.app/)   |
-| [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main)        | Javascript, React, Redux            | [View Live](https://filzas-todo-app.netlify.app/)                 |
-| [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8)       | Javascript, React, Redux            | [View Live](https://funn-quizz.netlify.app/)                   |
-| [movies-site](https://github.com/filzasaleem/project-movies-vite-week7)     | Javascript, React Routers, TailwindCSS         | [View Live](https://filzas-movies-project.netlify.app/)       |
+| [ReShare](https://github.com/filzasaleem/ReShare/tree/main)       | Javascript, React,React Hooks, Redux toolkit, React Routers,MongoDB     | [View Live](https://stirring-florentine-c4bb3f.netlify.app/)   |
+| [Todo App](https://github.com/filzasaleem/Technigo_project-todos-redux/tree/main)        | Javascript,React, React Hooks, Redux toolkit           | [View Live](https://filzas-todo-app.netlify.app/)                 |
+| [quiz-app](https://github.com/filzasaleem/project-redux-quiz-week8)       | Javascript, React,React Hooks, Redux toolkit           | [View Live](https://funn-quizz.netlify.app/)                   |
+| [movies-site](https://github.com/filzasaleem/project-movies-vite-week7)     | Javascript, React,React Hooks,React Routers, TailwindCSS         | [View Live](https://filzas-movies-project.netlify.app/)       |
 
 
 <h3 align="left">Connect with me:</h3>
